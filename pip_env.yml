@@ -1,4 +1,4 @@
-name: kobe_env
+name: pip_env
 channels:
   - conda-forge
   - anaconda
@@ -224,5 +224,5 @@ dependencies:
     - kepderiv==0.1.0
     - python-dace-client==1.4.2
     - spleaf==0.1.2
-prefix: /home/lokeshmishra/PaleBlueDot/anaconda3/envs/kobe_env
+prefix: /home/lokeshmishra/PaleBlueDot/anaconda3/envs/pip_env
 
